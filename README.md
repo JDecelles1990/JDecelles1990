@@ -10,6 +10,8 @@ English · Français · Québec, Canada · Remote IT Support
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Profile-258FFA?logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/JonathanDecelles1990)
 [![F7Hub](https://img.shields.io/badge/Featured%20Project-F7Hub-24292F?logo=github&logoColor=white)](https://github.com/JDecelles1990/F7Hub)
 
+🇫🇷 [Version française](README.fr.md)
+
 </div>
 
 ---
@@ -28,27 +30,29 @@ I build practical tools that reduce repetitive helpdesk work while keeping troub
 
 ## IT Support Focus
 
-- Windows 11 troubleshooting and endpoint support
-- Microsoft 365 administration
-- Outlook and Exchange Online
-- Microsoft Entra ID
-- Microsoft Intune
-- Microsoft Defender
-- Azure fundamentals
-- Active Directory and Group Policy
-- DNS, DHCP, TCP/IP, VPN and connectivity troubleshooting
-- PowerShell administration and diagnostics
-- HaloPSA and NinjaRMM
-- Email authentication: SPF, DKIM and DMARC
-- Security investigation and troubleshooting fundamentals
+| | |
+|---|---|
+| Windows 11 troubleshooting and endpoint support | PowerShell administration and diagnostics |
+| Microsoft 365 administration | HaloPSA and NinjaRMM |
+| Outlook and Exchange Online | Email authentication: SPF, DKIM and DMARC |
+| Microsoft Entra ID | Security investigation and troubleshooting fundamentals |
+| Microsoft Intune | Active Directory and Group Policy |
+| Microsoft Defender | DNS, DHCP, TCP/IP, VPN and connectivity troubleshooting |
+| Azure fundamentals | |
 
 ---
 
-# Featured Project: F7Hub
+## Featured Project: F7Hub
 
 [F7Hub](https://github.com/JDecelles1990/F7Hub) is my flagship Windows IT-support technician workspace.
 
 It is designed as a technician command center for organizing ticket context, troubleshooting knowledge, diagnostics, reference material, and controlled automation.
+
+<div align="center">
+
+[![F7Hub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JDecelles1990&repo=F7Hub&theme=tokyonight)](https://github.com/JDecelles1990/F7Hub)
+
+</div>
 
 ### Technology Stack
 
@@ -59,7 +63,8 @@ It is designed as a technician command center for organizing ticket context, tro
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey%20v2-334455)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### Current Capabilities
+<details>
+<summary><strong>Current Capabilities</strong> (click to expand)</summary>
 
 - Ticket creation and saved-ticket workflows
 - Company, contact and reference-data integration
@@ -73,6 +78,8 @@ It is designed as a technician command center for organizing ticket context, tro
 - SQLite migrations, repositories and service boundaries
 - Automated database, GUI, PowerShell and integration testing
 - Native Windows validation for supported workflows
+
+</details>
 
 ### Engineering Approach
 
@@ -123,21 +130,25 @@ AI-generated code remains subject to the same review and validation standards as
 
 ## Technical Toolbox
 
-### Microsoft & IT
-
-`Windows 11` · `Microsoft 365` · `Azure` · `Entra ID` · `Exchange Online` · `Intune` · `Microsoft Defender` · `Active Directory` · `Group Policy` · `PowerShell`
-
-### Development & Automation
-
-`Python` · `PySide6 / Qt` · `SQLite` · `SQL` · `PowerShell` · `AutoHotkey v2` · `Git` · `GitHub` · `YAML` · `JSON`
-
-### Troubleshooting
-
-`DNS` · `DHCP` · `TCP/IP` · `VPN` · `RDP` · `Outlook` · `Teams` · `Windows Services` · `Printers` · `Email Authentication`
+| Microsoft & IT | Development & Automation | Troubleshooting |
+|---|---|---|
+| `Windows 11` | `Python` | `DNS` |
+| `Microsoft 365` | `PySide6 / Qt` | `DHCP` |
+| `Azure` | `SQLite` | `TCP/IP` |
+| `Entra ID` | `SQL` | `VPN` |
+| `Exchange Online` | `PowerShell` | `RDP` |
+| `Intune` | `AutoHotkey v2` | `Outlook` |
+| `Microsoft Defender` | `Git` | `Teams` |
+| `Active Directory` | `GitHub` | `Windows Services` |
+| `Group Policy` | `YAML` | `Printers` |
+| `PowerShell` | `JSON` | `Email Authentication` |
 
 ---
 
 ## Currently Learning
+
+<details open>
+<summary><strong>Show topics</strong></summary>
 
 - Microsoft Graph
 - Advanced PowerShell
@@ -151,6 +162,8 @@ AI-generated code remains subject to the same review and validation standards as
 - IT-support automation
 - AI-assisted troubleshooting workflows
 
+</details>
+
 ---
 
 ## Programming Journey
@@ -158,6 +171,9 @@ AI-generated code remains subject to the same review and validation standards as
 My programming experiments began before my current AI-assisted development workflow.
 
 I keep selected historical projects public to preserve that progression instead of rewriting old source code to make it appear modern.
+
+<details>
+<summary><strong>Historical projects</strong> (click to expand)</summary>
 
 ### Ginette-AI
 
@@ -170,6 +186,8 @@ Historical Python voice-assistant experiment focused on Wikipedia search and spe
 Historical Python computer-vision experiment for scanning QR codes with a webcam.
 
 ➡️ [View QR Code Scanner](https://github.com/JDecelles1990/QR_Code_Scanner)
+
+</details>
 
 ---
 
@@ -193,17 +211,32 @@ I am especially interested in tools that help Level 1 and Level 2 technicians tr
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDecelles1990&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDecelles1990&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## Professional Links
 
-- [LinkedIn](https://www.linkedin.com/in/JonathanDecelles)
-- [Microsoft Learn](https://learn.microsoft.com/en-us/users/JonathanDecelles1990)
-- [GitHub](https://github.com/JDecelles1990)
-- [F7Hub](https://github.com/JDecelles1990/F7Hub)
+| Platform | Link |
+|---|---|
+| LinkedIn | [linkedin.com/in/JonathanDecelles](https://www.linkedin.com/in/JonathanDecelles) |
+| Microsoft Learn | [learn.microsoft.com/users/JonathanDecelles1990](https://learn.microsoft.com/en-us/users/JonathanDecelles1990) |
+| GitHub | [github.com/JDecelles1990](https://github.com/JDecelles1990) |
+| Featured Project | [F7Hub](https://github.com/JDecelles1990/F7Hub) |
 
 ---
 
 <div align="center">
 
 Québec, Canada · Remote IT Support · English / Français
+
+🇫🇷 [Version française](README.fr.md)
 
 </div>
