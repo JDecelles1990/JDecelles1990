@@ -38,7 +38,7 @@ I build practical tools that reduce repetitive helpdesk work while keeping troub
 | Microsoft Entra ID | Security investigation and troubleshooting fundamentals |
 | Microsoft Intune | Active Directory and Group Policy |
 | Microsoft Defender | DNS, DHCP, TCP/IP, VPN and connectivity troubleshooting |
-| Azure fundamentals | |
+| Azure fundamentals | AZ-900 |
 
 ---
 
